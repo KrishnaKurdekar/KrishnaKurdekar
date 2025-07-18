@@ -13,11 +13,11 @@
 #### Top Repositories
 
 
-<a href="https://github.com/KrishnaKurdekar/Music-Player">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKurdekar&repo=Music-Player" />
+<a href="https://github.com/KrishnaKurdekar/React-Spotify-Music-Player">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKurdekar&repo=React-Spotify-Music-Player" />
 </a>
-<a href="https://github.com/KrishnaKurdekar/Applicant-Tracking-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKurdekar&repo=Applicant-Tracking-System" />
+<a href="https://github.com/KrishnaKurdekar/JEWELARY-SHOP-MANAGEMENT-SYSTEM">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKurdekar&repo=JEWELARY-SHOP-MANAGEMENT-SYSTEM" />
 </a>
 
 <br />
