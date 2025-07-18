@@ -17,7 +17,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKurdekar&repo=Music-Player" />
 </a>
 <a href="https://github.com/KrishnaKurdekar/Applicant-Tracking-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKurdekar&repo=Applicant-Tracking-System&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KrishnaKurdekar&repo=Applicant-Tracking-System" />
 </a>
 
 <br />
